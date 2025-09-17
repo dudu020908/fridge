@@ -48,7 +48,7 @@ fun FridgeScreen(navController: NavController) {
         }
     }
 }
-
+//커밋
 //  2.내부 냉장고 화면
 @Composable
 fun FridgeInsideScreen(navController: NavController?) {
