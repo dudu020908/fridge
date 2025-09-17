@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.fridgeapp-merged_res-61:/drawable_fridgeinside.png.flat",
+        "source": "com.example.fridgeapp-main-63:/drawable/fridgeinside.png"
+    },
+    {
+        "merged": "com.example.fridgeapp-merged_res-61:/drawable_fridge_closed.png.flat",
+        "source": "com.example.fridgeapp-main-63:/drawable/fridge_closed.png"
+    }
+]
